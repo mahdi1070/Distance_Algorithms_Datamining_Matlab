@@ -12,6 +12,8 @@ calcuate Cossine distance between all columns .
 
 calcuate Correlation distance between all columns .
 
+calcuate Covariance distance between all columns .
+
 Entropy for each columns .
 
 
