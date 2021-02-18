@@ -1,0 +1,2 @@
+# Distance_Algorithms_Datamining_Matlab
+Distance_Algorithms_Datamining_Matlab_Euclidean_Mahalanobis_Cossine_Entropy_Correlation_Covariance
